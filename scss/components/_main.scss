@@ -1,0 +1,21 @@
+
+main {
+    padding: 1em;
+    background-color: #8aa399;
+    ul {
+        text-align: center;
+
+        li {
+            
+            display: inline-block;
+            margin-left: 3em; 
+            margin-right: 3em;
+        }
+
+        a {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: large;
+            color:#22333b;
+        }
+    }
+}
